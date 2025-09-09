@@ -1,7 +1,9 @@
 title: "Trang Do"
 description: "Personal Website"
-theme: jekyll-theme-cayman
-
-
-# GitHub Pages will use these
 markdown: kramdown
+theme: minima
+
+# Let GitHub Pages build with Jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
