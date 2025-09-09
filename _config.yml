@@ -1,6 +1,7 @@
 title: "Trang Do"
 description: "Personal Website"
-theme: minima
+theme: jekyll-theme-cayman
+
 
 # GitHub Pages will use these
 markdown: kramdown
